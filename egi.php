@@ -70,8 +70,8 @@ return $a;
 }
 
 echo "=========================\n";
-echo "Borong Barang Slash\n";
-echo "Created by @ikballnh\n";
+echo "Bobo bareng Slash\n";
+echo "Created by @giie saputra\n";
 echo "=========================\n";
 echo "Masukan ID: ";
 $id = trim(fgets(STDIN));
